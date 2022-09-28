@@ -9,7 +9,7 @@
 
 - Here is a gif of the control interface in action.
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/88754586/192791202-e1633f43-d5c2-49f5-848c-16cec3ca1606.gif" width="50%">
+  <img src="https://user-images.githubusercontent.com/88754586/192791202-e1633f43-d5c2-49f5-848c-16cec3ca1606.gif" width="40%">
 </p>
 
 ### Current design issues:
