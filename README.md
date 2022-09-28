@@ -82,5 +82,5 @@ touch screen by allowing users to swipe to see all possible floors. Census.gov s
 
 ![ElevatorDemo](https://user-images.githubusercontent.com/88754586/192777528-eb501a6a-c910-44d1-b237-c2b238f54c68.gif)
 
-- Link to the GitHub repository: https://github.com/blane13brown/p1.blane.brown.git
+- Link to the GitHub repository: [p1.blane.brown](https://github.com/blane13brown/p1.blane.brown.git)
 
