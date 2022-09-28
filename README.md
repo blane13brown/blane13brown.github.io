@@ -42,3 +42,14 @@ Rare:
   -	Using the elevator emergency call button to get assistance if there’s an issue with the elevator
   -	Use the emergency alarm button to alert someone that you are stuck in the elevator
   -	Press emergency stop button to immediately cut power to elevator motors and apply the brakes
+
+Common action sequences:
+  1.	Press elevator call button
+  2.	Enter elevator and select desired floor (may read information panel before selecting floor)
+  3.	If no one is nearby, press close door button. Otherwise, wait for other users to perform their actions
+  4.	Look at current floor screen and wait for elevator to arrive at your floor
+  5.	Exit elevator
+
+How does the elevator support the user to figure out how to make it work?
+  This elevator does a pretty good job in helping users understand how to use it by providing a large information panel on which floors have what locations. This will help users understand they need to press the corresponding floor button to get to the location they desire. There is a very limited number of controls, and all of them are labeled with either text or symbols. The emergency button could benefit from some text saying emergency on it, but it does give the impression that the button calls for help due to it being red with a phone icon on it. The floor controls provide useful feedback to let users know a floor has been selected. 
+
