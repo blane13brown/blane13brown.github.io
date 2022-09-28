@@ -72,5 +72,6 @@ Since I will be creating a touch screen interface in processing, I decided to ma
   -	Easy to read font and colors allowing users to quickly gather control information
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/88754586/192716399-c535b9f4-0531-44a8-8fc1-d0b2b2a19d8d.png" width="60%" align="middle">
+  <img src="https://user-images.githubusercontent.com/88754586/192771443-ee035316-91df-4a0d-9af7-c699589010cc.png" width="60%" align="middle">
 </p>
+
