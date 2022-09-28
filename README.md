@@ -71,5 +71,6 @@ Since I will be creating a touch screen interface in processing, I decided to ma
   -	Current floor is shown right above the controls, all useful information in one place rather than split
   -	Easy to read font and colors allowing users to quickly gather control information
 
-<img src="https://user-images.githubusercontent.com/88754586/192716399-c535b9f4-0531-44a8-8fc1-d0b2b2a19d8d.png" width="60%" align="middle">
-
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/88754586/192716399-c535b9f4-0531-44a8-8fc1-d0b2b2a19d8d.png" width="60%" align="middle">
+</p>
