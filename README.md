@@ -62,7 +62,7 @@ This elevator provides feedback to users in a visual, audible, and tactile manne
 
 With this design you could easily make the mistake that the close door buttons work when they in fact do not do anything at all. Users who do not know what “B” represents may be scared to access those floors and not travel to them. 
 
-###Improvement suggestions and my justification
+### Improvement suggestions and my justification
 Since I will be creating a touch screen interface in processing, I decided to make my improvements with a touch screen in mind. Below are some of the improvements I made:
   -	Took advantage of the fact that touch screens can scroll by a user swiping. I made it so the screen could take up less space, saving money and allowing disabled users to easily reach it
   -	I made it obvious that more floor options were available by adding arrows showing that more options are above and below
