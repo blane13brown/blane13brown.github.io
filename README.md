@@ -6,4 +6,4 @@
 ![Image1](https://user-images.githubusercontent.com/88754586/192710438-092a0d5e-fa06-4ca2-bd80-9a50857be504.jpeg)
 ![Image2](https://user-images.githubusercontent.com/88754586/192710443-014226ec-3761-439a-8135-ec1ee2a77f63.jpeg)
 
-<img src="https://user-images.githubusercontent.com/88754586/192710438-092a0d5e-fa06-4ca2-bd80-9a50857be504.jpeg" width="100">
+<img src="https://user-images.githubusercontent.com/88754586/192710438-092a0d5e-fa06-4ca2-bd80-9a50857be504.jpeg" width="500">
