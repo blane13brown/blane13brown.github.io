@@ -9,6 +9,7 @@
 
 - Here is a gif of the control interface in action.
 
+
 ### Current design issues:
   -	The lobby names are not represented in braille
   -	Not everyone will know what “B” stands for
@@ -37,6 +38,7 @@
   -	Transport large or heavy objects up and down floors
   -	Close doors with close doors button
   -	Open doors with open doors button
+  This elevators interface makes performing these common task simple for me, however that may not be the case for everyone. For example the buttons on this elevator are quite vertical, meaning those in wheel chairs may not be able to perform these common task. 
   
 ### Rare:
   -	Using the elevator emergency call button to get assistance if there’s an issue with the elevator
@@ -78,7 +80,7 @@ Since I will be creating a touch screen interface in processing, I decided to ma
 ## Requirements for a grade of A:
 My elevator touch screen has a size of 650px by 490px. This may seem small but I have good reason for choosing this screen size. I want those in wheel chairs to be 
 able to easily use my interface, so I made sure to make it compact, without compromising on the information it provides. I took full advantag of the interface being
-touch screen by allowing users to swipe to see all possible floors. Census.gov states that 84% of Americans own a smart device, meaning they have experience using touch screens and would not have to learn how to use my interface. I supply arrows pointing in the direction that more information is available so users will not miss any floors. 
+touch screen by allowing users to swipe to see all possible floors. Census.gov states that 84% of Americans own a smart device, meaning they have experience using touch screens and would not have to learn how to use my interface. I also supply arrows pointing in the direction that more information is available so users will not miss any floors. I believe I have a unique interface that is handicap friendly and relays all the important information someone could want from an elevator. 
 
 ![ElevatorDemo](https://user-images.githubusercontent.com/88754586/192777528-eb501a6a-c910-44d1-b237-c2b238f54c68.gif)
 
