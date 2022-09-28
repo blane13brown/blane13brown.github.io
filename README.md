@@ -80,4 +80,5 @@ My elevator touch screen has a size of 650px by 490px. This may seem small but I
 able to easily use my interface, so I made sure to make it compact, without compromising on the information it provides. I took full advantag of the interface being
 touch screen by allowing users to swipe to see all possible floors. Census.gov states that 84% of Americans own a smart device, meaning they have experience using touch screens and would not have to learn how to use my interface. I supply arrows pointing in the direction that more information is available so users will not miss any floors. 
 
-https://user-images.githubusercontent.com/88754586/192776894-03538d5b-ae1e-4698-8184-2e6396ada7bf.mp4
+![ElevatorDemo](https://user-images.githubusercontent.com/88754586/192777528-eb501a6a-c910-44d1-b237-c2b238f54c68.gif)
+
