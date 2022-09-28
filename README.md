@@ -9,6 +9,7 @@
 
 - Here is a gif of the control interface in action.
 
+
 - Current design issues: 
   -	The lobby names are not represented in braille
   -	Not everyone will know what “B” stands for
@@ -19,6 +20,7 @@
   -	Random black square below controls, may confuse users into thinking it has functionality (could possibly be a camera)
   -	Current floor can be hard to read since its white text on a bright blue background
   -	Elevator only “dings” when travelling between floors. A voice relaying what floor its currently on would better help those who are visually impaired
+  
   
 - What the design does well:
   -	Floor control buttons provide obvious feedback when pressed
