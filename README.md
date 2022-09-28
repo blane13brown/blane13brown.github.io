@@ -18,14 +18,14 @@
   -	Door open and close buttons do not light up when pressed
   -	Door open and close buttons do not seem to work, no response when pressed other than the button going in
   -	Very top button may be hard to reach for people in wheelchairs
-  -	Current floor screen quite high up, those in wheelchairs may have to strain neck to see it
-  -	Random black square below controls, may confuse users into thinking it has functionality (could possibly be a camera)
+  -	Current floor screen is quite high up, those in wheelchairs may have to strain their neck to see it
+  -	Random black square below the controls, may confuse users into thinking it has functionality (could possibly be a camera)
   -	Current floor can be hard to read since its white text on a bright blue background
-  -	Elevator only “dings” when travelling between floors. A voice relaying what floor its currently on would better help those who are visually impaired
+  -	Elevator only “dings” when traveling between floors. A voice relaying what floor its currently on would better help those who are visually impaired
   
 ### What the design does well:
   -	Floor control buttons provide obvious feedback when pressed
-  -	Braille is used to help visually impaired use the elevator
+  -	Braille is used to help the visually impaired use the elevator
   -	Feedback is provided to let you know your current floor location
   -	One simple help button, some elevators have multiple, and this may confuse users
   -	Emergency button is colored red
@@ -38,8 +38,8 @@
   -	Travel down to lower floors
   -	Used by handicapped people so they may easily go up/down floors
   -	Transport large or heavy objects up and down floors
-  -	Close doors with close doors button
-  -	Open doors with open doors button<br>
+  -	Close doors with the close doors button
+  -	Open doors with the open doors button<br>
 
 This elevators interface makes performing these common task simple for me, however that may not be the case for everyone. For example the buttons on this elevator are quite vertical, meaning those in wheel chairs may not be able to perform these common task. 
   
@@ -65,13 +65,13 @@ This elevator provides feedback to users in a visual, audible, and tactile manne
 
 ### What are some possible mistakes users could make with the current interface?
 
-With this design you could easily make the mistake that the close door buttons work when they in fact do not do anything at all. Users who do not know what “B” represents may be scared to access those floors and not travel to them. 
+With this design, you could easily make the mistake that the close door buttons work when they in fact do not do anything at all. Users who do not know what “B” represents may be scared to access those floors and not travel to them. 
 
 ### Improvement suggestions and my justification
 Since I will be creating a touch screen interface in processing, I decided to make my improvements with a touch screen in mind. Below are some of the improvements I made:
   -	Took advantage of the fact that touch screens can scroll by a user swiping. I made it so the screen could take up less space, saving money and allowing disabled users to easily reach it
   -	I made it obvious that more floor options were available by adding arrows showing that more options are above and below
-  -	Side controls such as emergency and door controls are separate from floors so users wont accidentally press them trying to change floors
+  -	Side controls such as emergency and door controls are separate from floors so users won't accidentally press them trying to change floors
   -	Floors are labeled with words instead of just letters and numbers which helps users better understand their purpose
   -	Current floor is shown right above the controls, all useful information in one place rather than split
   -	Easy to read font and colors allowing users to quickly gather control information
@@ -81,9 +81,9 @@ Since I will be creating a touch screen interface in processing, I decided to ma
 </p>
 
 ## Requirements for a grade of A:
-My elevator touch screen has a size of 650px by 490px. This may seem small but I have good reason for choosing this screen size. I want those in wheel chairs to be 
-able to easily use my interface, so I made sure to make it compact, without compromising on the information it provides. I took full advantag of the interface being
-touch screen by allowing users to swipe to see all possible floors. Census.gov states that 84% of Americans own a smart device, meaning they have experience using touch screens and would not have to learn how to use my interface. I also supply arrows pointing in the direction that more information is available so users will not miss any floors. I believe I have a unique interface that is handicap friendly and relays all the important information someone could want from an elevator. 
+My elevator touch screen has a size of 650px by 490px. This may seem small but I have a good reason for choosing this screen size. I want those in wheelchairs to be 
+able to easily use my interface, so I made sure to make it compact, without compromising on the information it provides. I took full advantage of the interface being
+a touch screen by allowing users to swipe to see all possible floors. Census.gov states that 84% of Americans own a smart device, meaning they have experience using touch screens and would not have to learn how to use my interface. I also supply arrows pointing in the direction that more information is available so users will not miss any floors. I believe I have a unique interface that is handicap friendly and relays all the important information someone could want from an elevator. 
 
 ![ElevatorDemo](https://user-images.githubusercontent.com/88754586/192777528-eb501a6a-c910-44d1-b237-c2b238f54c68.gif)
 
