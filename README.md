@@ -39,8 +39,8 @@
   -	Used by handicapped people so they may easily go up/down floors
   -	Transport large or heavy objects up and down floors
   -	Close doors with close doors button
-  -	Open doors with open doors button
-  This elevators interface makes performing these common task simple for me, however that may not be the case for everyone. For example the buttons on this elevator are quite vertical, meaning those in wheel chairs may not be able to perform these common task. 
+  -	Open doors with open doors button<br>
+This elevators interface makes performing these common task simple for me, however that may not be the case for everyone. For example the buttons on this elevator are quite vertical, meaning those in wheel chairs may not be able to perform these common task. 
   
 ### Rare:
   -	Using the elevator emergency call button to get assistance if there’s an issue with the elevator
