@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/88754586/192710443-014226ec-3761-439a-8135-ec1ee2a77f63.jpeg" width="50%">
 
 - Here is a gif of the control interface in action.
-  - Current design issues: 
+- Current design issues: 
   -	The lobby names are not represented in braille
   -	Not everyone will know what “B” stands for
   -	Door open and close buttons do not light up when pressed
@@ -18,3 +18,11 @@
   -	Random black square below controls, may confuse users into thinking it has functionality (could possibly be a camera)
   -	Current floor can be hard to read since its white text on a bright blue background
   -	Elevator only “dings” when travelling between floors. A voice relaying what floor its currently on would better help those who are visually impaired
+- What the design does well:
+  -	Floor control buttons provide obvious feedback when pressed
+  -	Braille is used to help visually impaired use the elevator
+  -	Feedback is provided to let you know your current floor location
+  -	One simple help button, some elevators have multiple, and this may confuse users
+  -	Emergency button is colored red
+  -	Information board above controls letting users know what is located on each floor
+  -	Some floors have additional labels beyond numbers
