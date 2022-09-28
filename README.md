@@ -1,4 +1,4 @@
 # Human Computer Interaction Projects
 ## Project 1: The Elevator Interface
 
-### test
+### Requirements for a grade of C
