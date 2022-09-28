@@ -1,2 +1,2 @@
-# blane13brown.github.io
-Human Computer Interaction Projects
+# Human Computer Interaction Projects
+## Project 1: The Elevator Interface
