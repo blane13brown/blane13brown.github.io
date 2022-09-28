@@ -1,6 +1,6 @@
-## Project 1: The Elevator Interface
+#Project 1: The Elevator Interface
 
-### Requirements for a grade of C:
+##Requirements for a grade of C:
 Elevator was found in a parking garage in Austin, Texas. Below are some images of the control interface.
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/88754586/192710438-092a0d5e-fa06-4ca2-bd80-9a50857be504.jpeg" width="40%">
@@ -29,7 +29,7 @@ What the design does well:
   -	Information board above controls letting users know what is located on each floor
   -	Some floors have additional labels beyond numbers
 
-### Requirements for a grade of B:
+##Requirements for a grade of B:
 Common elevator uses:
   -	Travel up to higher floors
   -	Travel down to lower floors
