@@ -53,4 +53,14 @@ Here is a gif of the control interface in action.
 **How does the elevator support the user to figure out how to make it work?** <br>
 
   This elevator does a pretty good job in helping users understand how to use it by providing a large information panel on which floors have what locations. This will help users understand they need to press the corresponding floor button to get to the location they desire. There is a very limited number of controls, and all of them are labeled with either text or symbols. The emergency button could benefit from some text saying emergency on it, but it does give the impression that the button calls for help due to it being red with a phone icon on it. The floor controls provide useful feedback to let users know a floor has been selected. 
+  
+**How does the elevator provide feedback to users?** <br>
+
+This elevator provides feedback to users in a visual, audible, and tactile manner. When using one of the buttons on the controls users can feel the button going in. A light ring around the button will then activate, letting users know they have selected a floor. While the elevator is traveling, a sound effect will trigger each time it arrives at a new floor, letting visually impaired individuals know that the elevator is moving between floors.
+
+**What are some possible mistakes users could make with the current interface?** <br>
+
+With this design you could easily make the mistake that the close door buttons work when they in fact do not do anything at all. Users who do not know what “B” represents may be scared to access those floors and not travel to them. 
+
+
 
