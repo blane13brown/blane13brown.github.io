@@ -75,3 +75,7 @@ Since I will be creating a touch screen interface in processing, I decided to ma
   <img src="https://user-images.githubusercontent.com/88754586/192771443-ee035316-91df-4a0d-9af7-c699589010cc.png" width="60%" align="middle">
 </p>
 
+## Requirements for a grade of A:
+My elevator touch screen has a size of 650px by 490px. This may seem small but I have good reason for choosing this screen size. I want those in wheel chairs to be 
+able to easily use my interface, so I made sure to make it compact, without compromising on the information it provides. I took full advantag of the interface being
+touch screen by allowing users to swipe to see all possible floors. Census.gov states that 84% of Americans own a smart device, meaning they have experience using touch screens and would not have to learn how to use my interface. I supply arrows pointing in the direction that more information is available so users will not miss any floors. 
