@@ -37,7 +37,7 @@ you can see in the sketch the newspaper button is blue, meaning news is currentl
   design pattern for the remaining health sections such as weight and exercise. 
   
 #### Color Selector
-  Allows the user to customize the look of their mirror by changing the overall color scheme
+  Allows the user to customize the look of their mirror by changing the overall color scheme.
   
   
 ## Requirements for a grade of B
