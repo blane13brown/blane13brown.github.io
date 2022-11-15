@@ -1,36 +1,16 @@
-# Project 1: The Elevator Interface
+# Project 2: Personal Magic Mirror
 
 ## Requirements for a grade of C:
-- Elevator was found in a parking garage in Austin, Texas. Below are some images of the control interface.
+- I designed my mirror using a column style grid to allow the design to be uniform and coherent. All controls line the sides of the mirror so that
+it can still be used as a simple mirror when the user stands in the middle. 
+
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/88754586/192710438-092a0d5e-fa06-4ca2-bd80-9a50857be504.jpeg" width="40%">
-  <img src="https://user-images.githubusercontent.com/88754586/192710443-014226ec-3761-439a-8135-ec1ee2a77f63.jpeg" width="40%">
 </p>
 
-- Here is a gif of the control interface in action.
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/88754586/192791202-e1633f43-d5c2-49f5-848c-16cec3ca1606.gif" width="40%">
-</p>
-
-### Current design issues:
-  -	The lobby names are not represented in braille
-  -	Not everyone will know what “B” stands for
-  -	Door open and close buttons do not light up when pressed
-  -	Door open and close buttons do not seem to work, no response when pressed other than the button going in
-  -	Very top button may be hard to reach for people in wheelchairs
-  -	Current floor screen is quite high up, those in wheelchairs may have to strain their neck to see it
-  -	Random black square below the controls, may confuse users into thinking it has functionality (could possibly be a camera)
-  -	Current floor can be hard to read since its white text on a bright blue background
-  -	Elevator only “dings” when traveling between floors. A voice relaying what floor its currently on would better help those who are visually impaired
-  
-### What the design does well:
-  -	Floor control buttons provide obvious feedback when pressed
-  -	Braille is used to help the visually impaired use the elevator
-  -	Feedback is provided to let you know your current floor location
-  -	One simple help button, some elevators have multiple, and this may confuse users
-  -	Emergency button is colored red
-  -	Information board above controls letting users know what is located on each floor
-  -	Some floors have additional labels beyond numbers
+### Design Choices
+#### Clock
+The clock was designed to be simple and easy to read.
 
 ## Requirements for a grade of B:
 ### Common elevator uses:
