@@ -1,4 +1,4 @@
-# Project 2: Personal Magic Mirror
+# Project 2: Personal Magic Mirror - Blane Brown
 
 ## Requirements for a grade of C
   I designed my mirror using a column style grid to allow the design to be uniform and coherent. All controls line the sides of the mirror so that it can still 
@@ -9,7 +9,7 @@ be used as a simple mirror when the user stands in the middle.
   <img src="https://user-images.githubusercontent.com/88754586/202023352-d6f97b3e-5d6c-4f5c-9bd1-50f74cc65875.png" width="90%">
 </p>
 
-### Design Choices
+### Design Choices:
 #### Clock
   The clock was designed to be simple and easy to read without any conscious effort from the user. It is positioned in the top left because that is where the users 
 eyes are likely to look first since we read English left to right from top to bottom. It also includes the date and day to help transition into the next widget 
@@ -30,6 +30,15 @@ sense to combine them so that the user interface is not too cluttered. Clicking 
 you can see in the sketch the newspaper button is blue, meaning news is currently selected to display in the widget. 
 
 #### Health Information
+  Since health information is by far the largest widget it will occupy the right side by itself by default. All essential health information a user could want is
+  organized in an easy to read manner allowing for quick understanding of the information. Your last nights sleep is shown as a bar to help the user visualize how
+  well they slept overall. The statistics are shown below if the user wants more detailed information. When comparing data to the previous week a colored circle is
+  shown as either red or green, depending on if you have improved your sleep or not, along with a detailed statistic comparing your sleep data. I used a similar
+  design pattern for the remaining health sections such as weight and exercise. 
+  
+  
+## Requirements for a grade of B
+My mirror has been implemented in p5.js so that I could utilize the power of JavaScript for API calls and reading from JSON files.
 
 - Link to the GitHub repository: [p1.blane.brown](https://github.com/blane13brown/p1.blane.brown.git)
 
