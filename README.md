@@ -5,7 +5,7 @@
 it can still be used as a simple mirror when the user stands in the middle. 
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/88754586/192710438-092a0d5e-fa06-4ca2-bd80-9a50857be504.jpeg" width="40%">
+  <img src="https://user-images.githubusercontent.com/88754586/202023352-d6f97b3e-5d6c-4f5c-9bd1-50f74cc65875.png" width="80%">
 </p>
 
 ### Design Choices
