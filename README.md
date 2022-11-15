@@ -49,7 +49,7 @@ I have included two main advanced features in my mirror that both have to do wit
 
 ### Click the image or link below to view my 2 minute project demo
 [![Mirror Demo Video](https://img.youtube.com/vi/vp7KD3zvlW0/0.jpg)](https://youtu.be/vp7KD3zvlW0)
-link: https://youtu.be/vp7KD3zvlW0
+<br>link: https://youtu.be/vp7KD3zvlW0
 
 - Link to the GitHub repository: [p1.blane.brown](https://github.com/blane13brown/p1.blane.brown.git)
 
