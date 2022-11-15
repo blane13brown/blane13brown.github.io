@@ -47,5 +47,7 @@ I have included two main advanced features in my mirror that both have to do wit
 - Movable widgets by grabbing them by their colored header
 - The option to change the color of your widgets to match the theme of your bathroom
 
+[![Mirror Demo Video](https://img.youtube.com/vi/vp7KD3zvlW0/0.jpg)](https://youtu.be/vp7KD3zvlW0)
+
 - Link to the GitHub repository: [p1.blane.brown](https://github.com/blane13brown/p1.blane.brown.git)
 
