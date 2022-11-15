@@ -36,6 +36,9 @@ you can see in the sketch the newspaper button is blue, meaning news is currentl
   shown as either red or green, depending on if you have improved your sleep or not, along with a detailed statistic comparing your sleep data. I used a similar
   design pattern for the remaining health sections such as weight and exercise. 
   
+#### Color Selector
+  Allows the user to customize the look of their mirror by changing the overall color scheme
+  
   
 ## Requirements for a grade of B
 My mirror has been implemented in p5.js so that I could utilize the power of JavaScript for API calls and reading from JSON files. Each widget is created as its own
