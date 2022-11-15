@@ -6,7 +6,7 @@ be used as a simple mirror when the user stands in the middle.
 ### Smart Mirror Sketch:
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/88754586/202023352-d6f97b3e-5d6c-4f5c-9bd1-50f74cc65875.png" width="90%">
+  <img src="https://user-images.githubusercontent.com/88754586/202027174-5380f0c0-7e09-46ca-b8ec-d15f294a3c3f.png" width="90%">
 </p>
 
 ### Design Choices:
