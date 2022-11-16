@@ -55,5 +55,5 @@ I have included two main advanced features in my mirror that both have to do wit
 <br>link: https://youtu.be/vp7KD3zvlW0
 
 ### Source Code
-Link to the GitHub repository: [p2.blane.brown](https://github.com/blane13brown/p1.blane.brown.git)
+Link to the GitHub repository: [p2.blane.brown](https://github.com/blane13brown/p2.Blane.Brown)
 
